@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616306472730",
+    "firebase_url": "https://flutter-shopping-9fc32-default-rtdb.firebaseio.com",
+    "project_id": "flutter-shopping-9fc32",
+    "storage_bucket": "flutter-shopping-9fc32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616306472730:android:f2f04112eed539abd7dea3",
+        "android_client_info": {
+          "package_name": "com.example.clothshoppinguser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616306472730-uuu0fakjlu7n0jtkuagtgibs4883n2uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAerufnTO2N-uYq8EpNR3bcnTqWUnfkIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616306472730-uuu0fakjlu7n0jtkuagtgibs4883n2uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
